@@ -298,7 +298,7 @@ function buildPage() {
 
         // IMPORTANT: Replace with your actual redirect URL
 
-        window.location.assign('https://storage.googleapis.com/gooning/unie/index.html/');
+        window.location.assign('https://storage.googleapis.com/gooning/unie/index.html');
 
       }, 500);
 
